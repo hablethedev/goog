@@ -3,9 +3,9 @@ goog
 
 ## stuff
 
-\[ - Open the bracket
+\[ - Open the bracket (start a seperate counter)
 
-\] - Close the bracket
+\] - Close the bracket (delete the seperate counter)
 
 \. - Decrement the counter
 
@@ -20,3 +20,5 @@ goog - goog...
 \# - Get user input (one character, stored as ascii in the 2nd counter)
 
 \* - Set the counter to be the 2nd counter
+
+& - Newline
