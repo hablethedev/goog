@@ -17,9 +17,9 @@ Newline - Reset the counter
 
 goog - goog...
 
-\# - Get user input (one character, stored as ascii in the 2nd counter)
+\# - Get user input (one character, stored as ascii in the PI counter)
 
-\* - Set the counter to be the 2nd counter
+\* - Set the counter to be the PI counter
 
 & - Newline
 
