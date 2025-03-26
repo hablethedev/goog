@@ -22,3 +22,8 @@ goog - goog...
 \* - Set the counter to be the 2nd counter
 
 & - Newline
+
+## technical details
+
+counter always wraps around
+minimum -8, maximum 128
